@@ -35,7 +35,8 @@ and I received my Master's degree in 2023 from the UCAS, majoring in electronic 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI25</div></div></div>
+
+<div class='paper-box'><div><div class="badge">AAAI25</div></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [**TNCSE: Tensor’s Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings**, code](https://github.com/GuitarPlayer-123/TNCSE)
@@ -43,7 +44,7 @@ and I received my Master's degree in 2023 from the UCAS, majoring in electronic 
 **Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI23</div></div></div>
+<div class='paper-box'><div><div class="badge">AAAI23</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**An Ensemble Distillation Framework for Sentence Embeddings with Multilingual Round-Trip Translation**](https://ojs.aaai.org/index.php/AAAI/article/view/26647)
@@ -52,6 +53,7 @@ and I received my Master's degree in 2023 from the UCAS, majoring in electronic 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 </div>
 </div>
 
