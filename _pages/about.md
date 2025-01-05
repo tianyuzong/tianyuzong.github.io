@@ -36,9 +36,9 @@ and I received my Master's degree in 2023 from the UCAS, majoring in electronic 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI25</div></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> 
 
-**TNCSE: Tensor’s Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings**
+[**TNCSE: Tensor’s Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings**, code](https://github.com/GuitarPlayer-123/TNCSE)
 
 **Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
 
