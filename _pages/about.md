@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Tianyu Zong(宗天禹), I am a Ph.D. student in the year of 2023 at the School of Computer Science and Technology, University of Chinese Academy of Sciences(https://www.ucas.ac.cn/), and my major is Computer Application Technology, and my current research interests are in multimodal generative modeling.
-My supervisor is Prof. Jungang Xu(https://people.ucas.edu.cn/~xujg).
-I received my Bachelor's degree in 2020 from the North China University of Technology(https://www.ncut.edu.cn/), majoring in electronic information engineering, and I received my Master's degree in 2023 from the University of Chinese Academy of Sciences, majoring in electronic information.
+My name is Tianyu Zong(宗天禹), I am a Ph.D. student in the year of 2023 at the School of Computer Science and Technology, [University of Chinese Academy of Sciences(UCAS)](https://www.ucas.ac.cn/), and my major is Computer Application Technology, and my current research interests are in multimodal generative modeling.
+My supervisor is Prof. [Jungang Xu](https://people.ucas.edu.cn/~xujg).
+I received my Bachelor's degree in 2020 from the [North China University of Technology](https://www.ncut.edu.cn/), majoring in electronic information engineering, 
+and I received my Master's degree in 2023 from the UCAS, majoring in electronic information.
 
 
 # 🔥 News
