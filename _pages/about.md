@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-haihaihai!
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My name is Tianyu Zong(宗天禹), I am a Ph.D. student in the year of 2023 at the School of Computer Science and Technology, University of Chinese Academy of Sciences(https://www.ucas.ac.cn/), and my major is Computer Application Technology, and my current research interests are in multimodal generative modeling.
+My supervisor is Prof. Jungang Xu(https://people.ucas.edu.cn/~xujg).
+I received my Bachelor's degree in 2020 from the North China University of Technology(https://www.ncut.edu.cn/), majoring in electronic information engineering, and I received my Master's degree in 2023 from the University of Chinese Academy of Sciences, majoring in electronic information.
 
 
 # 🔥 News
