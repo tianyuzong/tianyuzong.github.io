@@ -51,6 +51,28 @@ and I received my Master's degree in 2023 from the UCAS, majoring in electronic 
 
 **Tianyu Zong**, Likun Zhang
 
+<div class="publication-list">
+  <div class='paper-box'>
+    <div>
+      <div class="badge">AAAI25</div>
+    </div>
+  </div>
+  <a href="https://github.com/GuitarPlayer-123/TNCSE"><strong>TNCSE: Tensor’s Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings</strong>, code</a>
+  
+  <strong>Tianyu Zong</strong>, Bingkang Shi, Hongzhu Yi, Jungang Xu
+  
+  <div class='paper-box'>
+    <div>
+      <div class="badge">AAAI23</div>
+    </div>
+  </div>
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26647"><strong>An Ensemble Distillation Framework for Sentence Embeddings with Multilingual Round-Trip Translation</strong></a>
+  
+  <strong>Tianyu Zong</strong>, Likun Zhang
+</div>
+
+
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
