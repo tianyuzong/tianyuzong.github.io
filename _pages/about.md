@@ -24,8 +24,8 @@ and I received my Master's degree in 2023 from the UCAS, majoring in electronic 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 A paper of which I am the first author has been accepted by AAAI25 and is awaiting publication!
+- *2022.02*: &nbsp;🎉🎉 A paper of which I am the first author has been accepted by AAAI23, [An Ensemble Distillation Framework for Sentence Embeddings with Multilingual Round-Trip Translation](https://ojs.aaai.org/index.php/AAAI/article/view/26647). 
 
 # 📝 Publications 
 
