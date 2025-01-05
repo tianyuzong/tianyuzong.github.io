@@ -24,36 +24,55 @@ and I received my Master's degree in 2023 from the UCAS, majoring in electronic 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 A paper of which I am the first author has been accepted by AAAI25 and is awaiting publication!
-- *2022.02*: &nbsp;🎉🎉 A paper of which I am the first author has been accepted by AAAI23, [An Ensemble Distillation Framework for Sentence Embeddings with Multilingual Round-Trip Translation](https://ojs.aaai.org/index.php/AAAI/article/view/26647). 
+- *2024.12*: &nbsp;🎉🎉 A paper of which I am the first author has been accepted by AAAI25(CCF-A) and is awaiting publication!
+- *2022.11*: &nbsp;🎉🎉 A paper of which I am the first author has been accepted by AAAI23(CCF-A), [An Ensemble Distillation Framework for Sentence Embeddings with Multilingual Round-Trip Translation](https://ojs.aaai.org/index.php/AAAI/article/view/26647). 
+
+# 📖 Educations
+- *2023.09 - now*, Ph.D. student in progress, University of Chinese Academy of Sciences, Computer Application Technology.
+- *2020.09 - 2023.06*, M.S. degree, University of Chinese Academy of Sciences, majoring in electronics and information.
+- *2016.09 - 2020.06*, B.S. degree, North China University of Technology, majoring in electronic information engineering.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI25</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**TNCSE: Tensor’s Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI23</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**An Ensemble Distillation Framework for Sentence Embeddings with Multilingual Round-Trip Translation**](https://ojs.aaai.org/index.php/AAAI/article/view/26647)
+
+**Tianyu Zong**, Likun Zhang
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards(part)
+- *2018.10* **First Prize** of the 10th National University Student Mathematics Competition and the 29th Beijing University Student Mathematics Competition (**ranked 1st on campus**)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09* **Second Prize** of National University Student Mathematical Modeling Competition (Beijing Region)
 
-# 💬 Invited Talks
+- *2017.12* **Second Prize** of the 34th National Competition of Physics for Undergraduates in Selected Regions of China
+
+- *2017.10* **Second Prize** of the 9th National College Students Mathematics Competition and First Prize of the 28th Beijing College Students Mathematics Competition
+
+- *2017.08* **Third Prize** of 2017 National Student Electronic Design Competition (Beijing Region)
+
+- .......
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **I'm looking for an internship!**
