@@ -34,6 +34,14 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 
 **Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Ensemble Distillation Framework for Sentence Embeddings with Multilingual Round-Rrip Translation](file:///C:/Users/18801/AppData/Local/Temp/MicrosoftEdgeDownloads/d79fbd53-a10c-4d7a-b9b1-72fdfc9de1b2/26647-Article%20Text-30710-1-2-20230626.pdf)
+
+**Tianyu Zong**, Likun Zhang
+
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
