@@ -21,8 +21,9 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 I am invited by AAAI25 to give an Oral presentation in Philadelphia!
+- *2024.12*: &nbsp;🎉🎉 My paper has been accepted by AAAI25.
+- *2022.11*: &nbsp;🎉🎉 My paper has been accepted by AAAI23. 
 
 # 📝 Publications 
 
