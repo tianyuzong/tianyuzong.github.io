@@ -21,7 +21,7 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 I am invited by AAAI25 to give an Oral presentation in Philadelphia!
+- *2025.01*: &nbsp;🎉🎉 I am invited by AAAI25 to give an **Oral** presentation in Philadelphia!
 - *2024.12*: &nbsp;🎉🎉 My paper has been accepted by AAAI25.
 - *2022.11*: &nbsp;🎉🎉 My paper has been accepted by AAAI23. 
 
@@ -41,7 +41,7 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 <div class='paper-box-text' markdown="1">
 
 [TNCSE: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/34816)
-[**Code**](https://github.com/tianyuzong/TNCSE)and[**Model**](https://huggingface.co/UCASzty)
+[**Code**](https://github.com/tianyuzong/TNCSE) and [**Model**](https://huggingface.co/UCASzty) **Oral**
 
 **Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
 </div>
@@ -56,6 +56,10 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 </div>
 </div>
 
+# 📖 Educations
+- *2023.09 - Now*, University of Chinese Academy of Sciences, Computer Application Technology, Ph.D in progress
+- *2020.09 - 2023.06*, University of Chinese Academy of Sciences, Electronic Information, M.S.
+- *2016.09 - 2020.06*, North Polytechnic University, Electronic Information Engineering, B.S.
 
 # 🎖 Honors and Awards
 
@@ -70,13 +74,9 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 - *2018.09* Second Prize of the Beijing Mathematical Competition of Modeling  for College Students
 - *2017.11* Second Prize of the Ninth Chinese Mathematics Competition (Non-Mathematics Group)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.02*, AAAI25 Conference 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **I am looking for a research internship!**
