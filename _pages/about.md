@@ -62,7 +62,7 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 # 📖 Educations
 - *2023.09 - Now*, University of Chinese Academy of Sciences, Computer Application Technology, Ph.D in progress
 - *2020.09 - 2023.06*, University of Chinese Academy of Sciences, Electronic Information, M.S.
-- *2016.09 - 2020.06*, North Polytechnic University, Electronic Information Engineering, B.S.
+- *2016.09 - 2020.06*, North China University of Technology, Electronic Information Engineering, B.S.
 
 # 🎖 Honors and Awards
 
