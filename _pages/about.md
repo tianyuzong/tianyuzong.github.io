@@ -33,6 +33,8 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 [TNCSE: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/34816)
 
 **Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
