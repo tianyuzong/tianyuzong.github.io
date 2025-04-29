@@ -58,13 +58,14 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2024.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
+- *2023.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
+- *2022.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
+- *2021.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
+- *2020.11* University of Chinese Academy of Sciences Freshman Scholarship
+- *2020.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
+- *2019.08* Third Prize of Electronic Design Competition for Beijing College Students
 - *2018.11* First Prize of the Tenth Chinese Mathematics Competition (non-mathematics group)
 - *2018.09* Second Prize of the Beijing Mathematical Competition of Modeling  for College Students
 - *2017.11* Second Prize of the Ninth Chinese Mathematics Competition (Non-Mathematics Group)
