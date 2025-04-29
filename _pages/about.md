@@ -75,6 +75,18 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 - *2018.09* Second Prize of the Beijing Mathematical Competition of Modeling  for College Students
 - *2017.11* Second Prize of the Ninth Chinese Mathematics Competition (Non-Mathematics Group)
 
+# 🗣 Activities
+## Reviewers
+- Information Processing & Management 
+- Neural Networks
+- AAAI25
+
+## Presentations
+- 2023.03, AAAI23 
+
+## Teaching
+- CS270 Digital Image Processing, Spring 2019, Fall 2019, TA
+- EE101 Fundamentals of Medical Imaging, Spring 2020, TA
 
 # 💬 Invited Talks
 - *2025.02*, AAAI25 Conference 
