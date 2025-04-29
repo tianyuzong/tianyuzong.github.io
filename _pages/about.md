@@ -82,11 +82,14 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 - AAAI25
 
 ## Presentations
-- 2023.03, AAAI23 
+- 2023.03, AAAI23 Washington, D.C.
 
 ## Teaching
-- CS270 Digital Image Processing, Spring 2019, Fall 2019, TA
-- EE101 Fundamentals of Medical Imaging, Spring 2020, TA
+-  Spring 2025, Deep Learning, Assistant Teacher, University of Chinese Academy of Sciences
+-  Spring 2025, Deep Learning, Lijiang College of Culture and Tourism
+-  Fall 2024, PRML Assistant Teacher, University of Chinese Academy of Sciences
+-  Fall 2024, Signal Processing, Lijiang College of Culture and Tourism
+-  Spring 2024, Deep Learning, Assistant Teacher, University of Chinese Academy of Sciences
 
 # 💬 Invited Talks
 - *2025.02*, AAAI25 Conference 
