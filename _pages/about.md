@@ -27,6 +27,15 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings]
+
+**Tianyu Zong**, Hongzhu Yi,  Bingkang Shi, Yuanxiang Wang, Jungang Xu
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
