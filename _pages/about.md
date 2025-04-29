@@ -43,8 +43,9 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TNCSE: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/34816),
-[**Code**](https://github.com/tianyuzong/TNCSE) and [**Model**](https://huggingface.co/UCASzty) **Oral**
+[TNCSE: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/34816), 
+**Oral Paper**
+[**Code**](https://github.com/tianyuzong/TNCSE) and [**Model**](https://huggingface.co/UCASzty) 
 
 **Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
 </div>
