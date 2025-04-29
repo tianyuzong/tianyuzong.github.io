@@ -31,8 +31,8 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings
-[**Code**](https://github.com/tianyuzong/JTCSE)and[**Model**](https://huggingface.co/UCASzty)
+JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings,
+[**Code**](https://github.com/tianyuzong/JTCSE) and [**Model**](https://huggingface.co/UCASzty)
 
 **Tianyu Zong**, Hongzhu Yi,  Bingkang Shi, Yuanxiang Wang, Jungang Xu
 </div>
@@ -41,7 +41,7 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TNCSE: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/34816)
+[TNCSE: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/34816),
 [**Code**](https://github.com/tianyuzong/TNCSE) and [**Model**](https://huggingface.co/UCASzty) **Oral**
 
 **Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
@@ -76,7 +76,7 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 - *2017.11* Second Prize of the Ninth Chinese Mathematics Competition (Non-Mathematics Group)
 
 # 🗣 Activities
-## Reviewers
+## Reviewer
 - Information Processing & Management 
 - Neural Networks
 - AAAI25
