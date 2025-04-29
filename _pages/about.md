@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academy of Sciences (UCAS), majoring in Computer Application Technology with a research interest in Natural Language Processing and Multimodal Content Understanding, My mentor is Prof. [ABC](). I will graduate in 2027. I received my Master's Degree in Electronic Information from the University of Chinese Academy of Sciences in 2023 and my Bachelor's Degree in Electronic Information Engineering from North China University of Technology in 2020.
+My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academy of Sciences (UCAS), majoring in Computer Application Technology with a research interest in Natural Language Processing and Multimodal Content Understanding, My mentor is Prof. [Jungang Xu](https://people.ucas.edu.cn/~xujg). I will graduate in 2027. I received my Master's Degree in Electronic Information from the University of Chinese Academy of Sciences in 2023 and my Bachelor's Degree in Electronic Information Engineering from North China University of Technology in 2020.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
