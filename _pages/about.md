@@ -21,7 +21,7 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 I am invited by AAAI25 to give an **Oral** presentation in Philadelphia!
+- *2025.01*: &nbsp;🎉🎉 I am invited by AAAI25 to give an **Oral** presentation in Philadelphia! 
 - *2024.12*: &nbsp;🎉🎉 My paper has been accepted by AAAI25.
 - *2023.06*: &nbsp;🎉🎉 I received my master's degree!
 - *2022.11*: &nbsp;🎉🎉 My paper has been accepted by AAAI23. 
@@ -44,7 +44,7 @@ JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Con
 <div class='paper-box-text' markdown="1">
 
 [TNCSE: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/34816), 
-**Oral Paper**
+**Oral Paper, Top 4.63% of submissions!**
 [**Code**](https://github.com/tianyuzong/TNCSE) and [**Model**](https://huggingface.co/UCASzty) 
 
 **Tianyu Zong**, Bingkang Shi, Hongzhu Yi, Jungang Xu
