@@ -29,7 +29,7 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 # 📝 Publications 
 
 
-## LLM inference optimization
+## LLM Inference Optimization
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
