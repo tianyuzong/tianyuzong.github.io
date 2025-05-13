@@ -32,7 +32,7 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 ## LLM Inference Optimization
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Policy Optimization with Experience Replay: Guiding Reasoning Models to Complete the Reasoning Path
@@ -43,7 +43,7 @@ Hongzhu Yi, Wang Xinming, Zhenghao Zhang, **Tianyu Zong**, Tao Yu, Jiahuan Chen,
 
 ## Unsupervised Sentence Embedding
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings](https://export.arxiv.org/abs/2505.02366),
