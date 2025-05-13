@@ -28,6 +28,19 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 
 # 📝 Publications 
 
+
+## LLM inference optimization
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Policy Optimization with Experience Replay: Guiding Reasoning Models to Complete the Reasoning Path
+
+Hongzhu Yi, Wang Xinming, Zhenghao Zhang, **Tianyu Zong**, Tao Yu, Jiahuan Chen, Yuanxiang Wang, Zhepeng Wang, Jun Xie, Tiankun Yang, Jungang Xu
+</div>
+</div>
+
 ## Unsupervised Sentence Embedding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
