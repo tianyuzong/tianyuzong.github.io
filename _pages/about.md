@@ -33,7 +33,7 @@ My name is Tianyu Zong. I am a Ph.D. student at the University of Chinese Academ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings,
+[JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings](https://export.arxiv.org/abs/2505.02366),
 [**Code**](https://github.com/tianyuzong/JTCSE) and [**Model**](https://huggingface.co/UCASzty)
 
 **Tianyu Zong**, Hongzhu Yi,  Bingkang Shi, Yuanxiang Wang, Jungang Xu
