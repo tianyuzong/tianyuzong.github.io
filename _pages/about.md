@@ -43,7 +43,7 @@ Hongzhu Yi, Wang Xinming, Zhenghao Zhang, **Tianyu Zong**, Tao Yu, Jiahuan Chen,
 
 ## Unsupervised Sentence Embedding
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings](https://export.arxiv.org/abs/2505.02366),
@@ -93,9 +93,11 @@ Hongzhu Yi, Wang Xinming, Zhenghao Zhang, **Tianyu Zong**, Tao Yu, Jiahuan Chen,
 
 # 🗣 Activities
 ## Reviewer
+- AAAI25
+- Neurocomputing
 - Information Processing & Management 
 - Neural Networks
-- AAAI25
+
 
 ## Presentations
 - 2023.03, AAAI23 Washington, D.C.
