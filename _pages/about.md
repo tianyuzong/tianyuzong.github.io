@@ -21,6 +21,7 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 
 
 # 🔥 News
+- *2025.06*: &nbsp; I have started visiting the **MMLab** at the Chinese University of Hong Kong.
 - *2025.01*: &nbsp;🎉🎉 I am invited by AAAI25 to give an **Oral** presentation in Philadelphia! 
 - *2024.12*: &nbsp;🎉🎉 My paper has been accepted by AAAI25.
 - *2023.06*: &nbsp;🎉🎉 I received my master's degree!
@@ -62,6 +63,7 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 </div>
 
 # 📖 Educations
+- *2025.06 - Now*, Chinese University of Hong Kong, MMLab, Visiting Student
 - *2023.09 - Now*, University of Chinese Academy of Sciences, Computer Application Technology, Ph.D in progress
 - *2020.09 - 2023.06*, University of Chinese Academy of Sciences, Electronic Information, M.S.
 - *2016.09 - 2020.06*, North China University of Technology, Electronic Information Engineering, B.S.
