@@ -21,7 +21,7 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 
 
 # 🔥 News
-- *2025.06*: &nbsp; I have started remote visiting the **MMLab** at the Chinese University of Hong Kong.
+- *2025.07*: &nbsp; I started a three-month internship at Qiwu Technology.
 - *2025.01*: &nbsp;🎉🎉 I am invited by AAAI25 to give an **Oral** presentation in Philadelphia! 
 - *2024.12*: &nbsp;🎉🎉 My paper has been accepted by AAAI25.
 - *2023.06*: &nbsp;🎉🎉 I received my master's degree!
@@ -103,4 +103,4 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 - *2025.02*, AAAI25 Conference 
 
 # 💻 Internships
-- **I am looking for a research internship!**
+- *2025.07-Now*, Qiwu Technology(启物科技) 
