@@ -103,5 +103,6 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 - *2025.02*, AAAI25 Conference 
 
 # 💻 Internships
+- *2025.10-now*, AutoNavi Maps (阿里巴巴-高德地图)
 - *2025.07-2025.09*, Qiwu Technology (启物科技) 
-- *2025.10-2025.now*, AutoNavi Maps (阿里巴巴-高德地图)
+
