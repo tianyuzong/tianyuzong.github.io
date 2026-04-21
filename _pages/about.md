@@ -21,15 +21,14 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 
 
 # 🔥 News
-- *2026.4*: &nbsp;🎉🎉 My paper has been accepted by ACL26 Main Conference.
-- *2026.4*: &nbsp;🎉🎉 A co-authored paper has been accepted by ACL26 Main Conference.
-- *2026.4*: &nbsp;🎉🎉 A co-authored paper has been accepted by ACL26 Findings.
+- *2026.04*: &nbsp;🎉🎉 My paper has been accepted by ACL26 Main Conference.
+- *2026.04*: &nbsp;🎉🎉 A co-authored paper has been accepted by ACL26 Main Conference.
+- *2026.04*: &nbsp;🎉🎉 A co-authored paper has been accepted by ACL26 Findings.
 - *2025.11*: &nbsp;🎉🎉 A co-authored paper has been accepted by AAAI26.
 - *2025.10*: &nbsp; I started a six-month internship at Alibaba AMaps (阿里巴巴-高德地图).
 - *2025.07*: &nbsp; I started a three-month internship at Qiwu Technology (启物科技).
 - *2025.01*: &nbsp;🎉🎉 I am invited by AAAI25 to give an **Oral** presentation in Philadelphia! 
 - *2024.12*: &nbsp;🎉🎉 My paper has been accepted by AAAI25.
-- *2023.06*: &nbsp;🎉🎉 I received my master's degree!
 - *2022.11*: &nbsp;🎉🎉 My paper has been accepted by AAAI23. 
 
 # 📝 Publications 
