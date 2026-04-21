@@ -112,7 +112,7 @@ Zhenghao Zhang, Jun Xie, Xingchen Chen, Tao Yu, Hongzhu Yi, Kaixin Xu, Yuanxiang
 - *2016.09 - 2020.06*, North China University of Technology, Electronic Information Engineering, B.S.
 
 # 🎖 Honors and Awards
-
+- *2025.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
 - *2024.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
 - *2023.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
 - *2022.09* University of Chinese Academy of Sciences Second Level Academic Scholarship
