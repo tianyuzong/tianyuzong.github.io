@@ -36,13 +36,13 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 
 ## Unsupervised Sentence Embedding
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/AAAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings](https://export.arxiv.org/abs/2505.02366),
-[**Code**](https://github.com/tianyuzong/JTCSE) and [**Model**](https://huggingface.co/UCASzty)
+[Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss.](https://ojs.aaai.org/index.php/AAAI/article/view/40091),
+[**Code**](https://ojs.aaai.org/index.php/AAAI/article/view/40091)
 
-**Tianyu Zong**, Hongzhu Yi,  Bingkang Shi, Yuanxiang Wang, Jungang Xu
+Zhenghao Zhang, Jun Xie, Xingchen Chen, Tao Yu, Hongzhu Yi, Kaixin Xu, Yuanxiang Wang, **Tianyu Zong**, Xinming Wang, Jiahuan Chen, Guoqing Chao, Feng Chen, Zhepeng Wang, Jungang Xu
 </div>
 </div>
 
