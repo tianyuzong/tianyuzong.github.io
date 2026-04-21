@@ -36,20 +36,20 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 
 ## Unsupervised Sentence Embedding
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main Conference</div><img src='images/ACL26ML.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main Conference</div><img src='images/ACL26ML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[L2Dir: Integrating 
--Norm and Directional Alignment for Unsupervised Contrastive Representation Learning in Multimodal Retrieval]
+L2Dir: Integrating 
+-Norm and Directional Alignment for Unsupervised Contrastive Representation Learning in Multimodal Retrieval
 
 **Tianyu Zong**, Rui Dai, Hongzhu Yi, Yuanxiang Wang, Zhenghao Zhang, Zhenyu Guan, Yujia Yang, Bingkang Shi, Yueyang Ding, Xiangxiang Chu, Kaikui Liu, Jungang Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main Conference</div><img src='images/ACL26MG.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main Conference</div><img src='images/ACL26MG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FAIRGAMER: Evaluating Social Biases in LLM-Based Video Game NPCs]
+FAIRGAMER: Evaluating Social Biases in LLM-Based Video Game NPCs
 
 Bingkang Shi, Jen-tse Huang, Luo Long, **Tianyu Zong**, Hongzhu Yi, Yuanxiang Wang, Songlin Hu, Xiaodan Zhang, Zhongjiang Yao
 </div>
@@ -59,7 +59,7 @@ Bingkang Shi, Jen-tse Huang, Luo Long, **Tianyu Zong**, Hongzhu Yi, Yuanxiang Wa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/ACL26F.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics]
+LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics
 
 Yueyang Ding, HaoPeng Zhang, Rui Dai, Yi Wang, **Tianyu Zong**, Kaikui Liu, Xiangxiang Chu
 </div>
