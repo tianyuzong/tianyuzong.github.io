@@ -33,9 +33,7 @@ My name is Tianyu Zong(宗天禹). I am a Ph.D. student at the University of Chi
 
 # 📝 Publications 
 
-
-## Unsupervised Sentence Embedding
-
+## Multimodal Representation Learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main Conference</div><img src='images/ACL26ML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,6 +44,7 @@ L2Dir: Integrating
 </div>
 </div>
 
+## Benckmark
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Main Conference</div><img src='images/ACL26MG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,6 +54,7 @@ Bingkang Shi, Jen-tse Huang, Luo Long, **Tianyu Zong**, Hongzhu Yi, Yuanxiang Wa
 </div>
 </div>
 
+## Time Series
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/ACL26F.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +65,8 @@ Yueyang Ding, HaoPeng Zhang, Rui Dai, Yi Wang, **Tianyu Zong**, Kaikui Liu, Xian
 </div>
 </div>
 
+
+## Graph Representative
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -78,6 +80,8 @@ Zhenghao Zhang, Jun Xie, Xingchen Chen, Tao Yu, Hongzhu Yi, Kaixin Xu, Yuanxiang
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+## Unsupervised Sentence Embedding
 
 [JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings](https://export.arxiv.org/abs/2505.02366),
 [**Code**](https://github.com/tianyuzong/JTCSE) and [**Model**](https://huggingface.co/UCASzty)
