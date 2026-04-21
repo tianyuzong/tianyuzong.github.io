@@ -56,7 +56,7 @@ Bingkang Shi, Jen-tse Huang, Luo Long, **Tianyu Zong**, Hongzhu Yi, Yuanxiang Wa
 
 ## Time Series
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/ACL26F.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/ACL26F.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics
