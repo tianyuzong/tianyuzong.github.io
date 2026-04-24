@@ -77,11 +77,10 @@ Zhenghao Zhang, Jun Xie, Xingchen Chen, Tao Yu, Hongzhu Yi, Kaixin Xu, Yuanxiang
 </div>
 </div>
 
+## Unsupervised Sentence Embedding
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under revision</div><img src='images/temp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-## Unsupervised Sentence Embedding
 
 [JTCSE: Joint Tensor Modulus Constraints and Cross Attention for Unsupervised Contrastive Learning of Sentence Embeddings](https://export.arxiv.org/abs/2505.02366),
 [**Code**](https://github.com/tianyuzong/JTCSE) and [**Model**](https://huggingface.co/UCASzty)
