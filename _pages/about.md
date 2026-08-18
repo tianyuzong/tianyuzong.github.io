@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-> 📢 **I am actively seeking Postdoctoral positions in the United States or Canada (available starting in 2027).** 
+> 📢 **I am actively seeking Postdoctoral position (available starting in 2027).** 
 > If your lab is working on Multimodal AI, World Models, Embodied AI, or 3D Vision, I would love to connect! Please feel free to reach out to me at [zongtianyu20@mails.ucas.ac.cn](mailto:zongtianyu20@mails.ucas.ac.cn).
 
 My name is **Tianyu Zong** (宗天禹). I am a Ph.D. student in Computer Application Technology at the [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/), advised by Prof. [Jungang Xu](https://people.ucas.edu.cn/~xujg), and I expect to graduate in 2027. My research interests lie in **Multimodal Representation Learning, World Models, and Embodied AI**, with a core focus on learning robust and generalizable representations from complex multimodal data. I received my Master's degree in Electronic Information from UCAS in 2023 and my Bachelor's degree in Electronic Information Engineering from North China University of Technology in 2020.
