@@ -122,19 +122,59 @@ Zhenghao Zhang, Jun Xie, Xingchen Chen, Tao Yu, Hongzhu Yi, Kaixin Xu, Yuanxiang
 </div>
 </div>
 
-- **[ICASSP 2026]** [Graph-Guided Contrastive Learning for Incomplete Multi-View Clustering with Consistent Global Graph](https://doi.org/10.1109/icassp55912.2026.11461858) · [**Paper**](https://doi.org/10.1109/icassp55912.2026.11461858)<br/>
-  Zhepeng Wang, Zhenghao Zhang, **Tianyu Zong**, Feng Chen, Jun Xie. *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026, CCF-B)*, pp. 2581–2585.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP26.png' alt="ICASSP 2026 Framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph-Guided Contrastive Learning for Incomplete Multi-View Clustering with Consistent Global Graph](https://doi.org/10.1109/icassp55912.2026.11461858)
+[**Paper**](https://doi.org/10.1109/icassp55912.2026.11461858)
+
+Zhepeng Wang, Zhenghao Zhang, **Tianyu Zong**, Feng Chen, Jun Xie
+
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026, CCF-B), pp. 2581–2585. Combines Consistent Global Graph Learning (CGGL) with Graph-Guided Cross-View Contrastive Learning (GraphCC).*
+</div>
+</div>
 
 ## Preprints (Co-Authored)
 
-- **[arXiv 2026.10]** [Can One Hear Geometry? Gauge-Invariant Spectral Descriptors for Text-to-B-rep Retrieval](https://arxiv.org/abs/2610.33484) · [**arXiv**](https://arxiv.org/abs/2610.33484)<br/>
-  Hongzhu Yi, Hao Liu, Tao Yu, Tiankun Yang, Yujia Yang, Zhenghao Zhang, **Tianyu Zong**, Zhenyu Guan, Bingkang Shi, Haopeng Jin, Yuanxiang Wang, Zhongtian Luo, Kun Tang, Tong Li, Jungang Xu.
-- **[arXiv 2026.06]** [Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding](https://arxiv.org/abs/2606.31232) · [**arXiv**](https://arxiv.org/abs/2606.31232)<br/>
-  Zhenghao Zhang, Yuanxiang Wang, Zhenyu Guan, Yujia Yang, Bingkang Shi, **Tianyu Zong**, Hongzhu Yi, Guoqing Chao, Xingchen Chen, Tiankun Yang, Chenxi Bao, Tao Yu, Jingjing Zhou, Jungang Xu.
-- **[arXiv 2026.02]** [VDE Bench: Evaluating The Capability of Image Editing Models to Modify Visual Documents](https://arxiv.org/abs/2602.00122) · [**arXiv**](https://arxiv.org/abs/2602.00122)<br/>
-  Hongzhu Yi, Yujia Yang, Yuanxiang Wang, Tong Li, Zhenyu Guan, **Tianyu Zong**, Jiahuan Chen, Chenxi Bao, Tiankun Yang, Haopeng Jin, Yixuan Yuan, Xinming Wang, Tao Yu, Ruilin Gao, Ruiwen Tao, Haijin Liang, Jin Ma, Jinwen Luo, Yeshani, Xinyu Zuo, Jungang Xu.
-- **[arXiv 2026.01]** [RPO: Reinforcement Fine-Tuning with Partial Reasoning Optimization](https://arxiv.org/abs/2601.19404) · [**arXiv**](https://arxiv.org/abs/2601.19404) · [**Code**](https://github.com/yhz5613813/RPO)<br/>
-  Hongzhu Yi, Xinming Wang, Zhenghao Zhang, **Tianyu Zong**, Yuanxiang Wang, Jun Xie, Tao Yu, Haopeng Jin, Kaixin Xu, Feng Chen, Jiahuan Chen, Yujia Yang, Zhenyu Guan, Bingkang Shi, Jungang Xu.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/arxiv26_brep.png' alt="Can One Hear Geometry" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can One Hear Geometry? Gauge-Invariant Spectral Descriptors for Text-to-B-rep Retrieval](https://arxiv.org/abs/2610.33484)
+[**arXiv**](https://arxiv.org/abs/2610.33484)
+
+Hongzhu Yi, Hao Liu, Tao Yu, Tiankun Yang, Yujia Yang, Zhenghao Zhang, **Tianyu Zong**, Zhenyu Guan, Bingkang Shi, Haopeng Jin, Yuanxiang Wang, Zhongtian Luo, Kun Tang, Tong Li, Jungang Xu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/arxiv26_deltajepa.png' alt="Delta-JEPA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding](https://arxiv.org/abs/2606.31232)
+[**arXiv**](https://arxiv.org/abs/2606.31232)
+
+Zhenghao Zhang, Yuanxiang Wang, Zhenyu Guan, Yujia Yang, Bingkang Shi, **Tianyu Zong**, Hongzhu Yi, Guoqing Chao, Xingchen Chen, Tiankun Yang, Chenxi Bao, Tao Yu, Jingjing Zhou, Jungang Xu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/arxiv26_vdebench.png' alt="VDE Bench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VDE Bench: Evaluating The Capability of Image Editing Models to Modify Visual Documents](https://arxiv.org/abs/2602.00122)
+[**arXiv**](https://arxiv.org/abs/2602.00122)
+
+Hongzhu Yi, Yujia Yang, Yuanxiang Wang, Tong Li, Zhenyu Guan, **Tianyu Zong**, Jiahuan Chen, Chenxi Bao, Tiankun Yang, Haopeng Jin, Yixuan Yuan, Xinming Wang, Tao Yu, Ruilin Gao, Ruiwen Tao, Haijin Liang, Jin Ma, Jinwen Luo, Yeshani, Xinyu Zuo, Jungang Xu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/nips25.png' alt="RPO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RPO: Reinforcement Fine-Tuning with Partial Reasoning Optimization](https://arxiv.org/abs/2601.19404)
+[**arXiv**](https://arxiv.org/abs/2601.19404) · [**Code**](https://github.com/yhz5613813/RPO)
+
+Hongzhu Yi, Xinming Wang, Zhenghao Zhang, **Tianyu Zong**, Yuanxiang Wang, Jun Xie, Tao Yu, Haopeng Jin, Kaixin Xu, Feng Chen, Jiahuan Chen, Yujia Yang, Zhenyu Guan, Bingkang Shi, Jungang Xu
+</div>
+</div>
 
 # 📖 Educations
 - *2023.09 - 2027.06 (Expected)*, Ph.D. Candidate in Computer Application Technology, University of Chinese Academy of Sciences (UCAS)
